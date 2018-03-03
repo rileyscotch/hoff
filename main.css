@@ -1,0 +1,44 @@
+body {
+  background: #F2622C;
+}
+
+h1 {
+  font-family: cursive;
+  color: purple;
+}
+
+#main-heading {
+  font-family: fantasy;
+}
+
+#main-hoff {
+  width: 500px;
+  height: auto;
+}
+
+p, a, li {
+  font-size: 20px;
+  line-height: 25px;
+  color: white;
+}
+
+.hoff-img {
+  float: right;
+  border-radius: 50%;
+}
+
+a:hover {
+  color: blue;
+}
+
+button {
+  font-size: 25px;
+  border-radius: 50%;
+}
+
+img {
+  margin: 15px;
+  border-style: dotted;
+  border-width: thick;
+  border-color: purple;
+}
